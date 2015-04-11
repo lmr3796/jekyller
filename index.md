@@ -77,13 +77,11 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
 
 ## Code Samples
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <mark><head></mark> <mark class="comment"><!--Comment--></mark>
-        <title>Shower</title>
-        <meta charset="<mark class="important">UTF-8</mark>">
-        <link rel="stylesheet" href="screen.css">
-    <mark></head></mark>
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 
 ## Even Tables
 
